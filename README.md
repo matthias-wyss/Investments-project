@@ -18,6 +18,7 @@ This repository contains the full solution to the EPFL Investments Project for t
 ├── notebook.ipynb                      # Main notebook with all code, plots, and results
 ├── investments-project-report.pdf      # Written report answering all questions
 ├── investments-project-guidelines.pdf  # Official project instructions and questions
+├── requirements.txt                    # Python dependencies needed to run the code
 ├── .gitignore                          # Ignore temporary files, datasets, and outputs
 ├── data/                               # Contains input datasets and intermediate results
 │   ├── fama-french-5factors/           # Fama-French 5 factor data (used in Q9)
