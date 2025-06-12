@@ -56,7 +56,7 @@ All analysis was implemented in Python, and all results are reproducible using t
 
 - The project was submitted after the course had ended, hence WRDS access was no longer available. All necessary data was downloaded prior to the June 4 deadline.
 - All code and answers are included in `notebook.ipynb`.
-- The final written report is available under `investments-report.pdf`.
+- The final written report is available under `investments-project-report.pdf`.
 - The official project instructions are provided in `investments-project-guidelines.pdf`.
 
 ---
