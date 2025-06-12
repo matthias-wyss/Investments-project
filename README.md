@@ -1,4 +1,4 @@
-# 📈 EPFL - Investments Project - Spring 2025
+# 📈 EPFL - Investments Project
 
 **Course instructors**: Pierre Collin-Dufresne & Florian Perusset  
 **Group members**:
